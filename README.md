@@ -56,11 +56,3 @@ Runs on http://localhost:3000
 - Live status of all on-chain crops (Listed / In Escrow / Sold)
 
 ---
-
-## Environment Variables (backend/.env)
-```
-CLOUD_NAME=your_cloudinary_name
-CLOUD_API_KEY=your_key
-CLOUD_API_SECRET=your_secret
-MAP_TOKEN=your_mapbox_token
-```
