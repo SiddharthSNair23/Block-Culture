@@ -1,0 +1,13 @@
+{
+  "name": "Tur (Arhar) Crop",
+  "description": "Well-graded quality tur",
+  "image": "http://localhost:3000/img/tur.jpg",
+  "id": 6,
+  "available": true,
+  "price": 2,
+  "attributes": [
+    { "trait_type": "Crop Price", "value": "60 ETH" },
+    { "trait_type": "Season", "value": "Kharif" },
+    { "trait_type": "Quality Grade", "value": "A" }
+  ]
+}

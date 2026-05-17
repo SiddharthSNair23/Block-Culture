@@ -1,0 +1,13 @@
+{
+  "name": "Wheat Crop",
+  "description": "Well-graded market wheat",
+  "image": "http://localhost:3000/img/wheat.jpg",
+  "id": 1,
+  "available": true,
+  "price": 2,
+  "attributes": [
+    { "trait_type": "Crop Price", "value": "25 ETH" },
+    { "trait_type": "Season", "value": "Rabi" },
+    { "trait_type": "Quality Grade", "value": "A" }
+  ]
+}
