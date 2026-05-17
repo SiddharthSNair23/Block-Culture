@@ -3,8 +3,8 @@
 ## Structure
 ```
 AgriYieldCombined/
-├── backend/    ← Node.js + Express + MongoDB (Project A)
-└── frontend/   ← React + Blockchain (Project B)
+├── backend/    ← Node.js + Express + MongoDB
+└── frontend/   ← React + Blockchain
 ```
 
 ## Setup & Run
@@ -42,12 +42,12 @@ Runs on http://localhost:3000
 
 ## How it works
 
-### Vendor (your friend)
+### Vendor
 1. Sign up as Vendor
 2. Add/edit/delete crop listings (saved to MongoDB)
 3. Connect MetaMask → finalize blockchain sales
 
-### Customer (you)
+### Customer
 1. Sign up as Customer
 2. Browse Vendor Listings (from MongoDB)
 3. Switch to Blockchain NFTs → buy crops via MetaMask escrow
